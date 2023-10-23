@@ -16,8 +16,7 @@ int main()
    {
         int roll = rand()%6 +1;
 
-        cout<<"Roll
-         "<<i+1<<": "<<roll<<endl;;
+        cout<<"Roll "<<i+1<<": "<<roll<<endl;;
 
         if(roll == bet)
         {
